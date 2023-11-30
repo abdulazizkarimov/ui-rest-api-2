@@ -1,0 +1,10 @@
+{
+  "host_url": "http://localhost:8080",
+  "api": "/api",
+  "web": "/web",
+  "tokenUrl": "/token/get",
+  "allTestsUrl": "/test/get/json",
+  "addTestUrl": "/test/put",
+  "addLogUrl": "/test/put/log",
+  "addScreenShotUrl": "/test/put/attachment"
+}
